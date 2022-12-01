@@ -1,0 +1,95 @@
+{
+  "productList": [
+    {
+      "productName": "Iphone 14 pooo",
+      "category": "Mobile",
+      "freshness": "Brand New",
+      "price": 820000,
+      "Comment": "to Good",
+      "date": "2022-12-04T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "s21 fe",
+      "category": "Mobile",
+      "freshness": "Brand New",
+      "price": 39599,
+      "Comment": "good",
+      "date": "2022-12-01T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Rishu",
+      "category": "Mobile",
+      "freshness": "Second Hand",
+      "price": 100,
+      "Comment": "all good",
+      "date": "2022-11-22T18:30:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "Rishu",
+      "category": "Mobile",
+      "freshness": "Brand New",
+      "price": 100,
+      "Comment": "all good",
+      "date": "2022-11-22T18:30:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "asdf",
+      "category": "Mobile",
+      "freshness": "Brand New",
+      "price": 300,
+      "Comment": "all good",
+      "date": "2022-11-22T18:30:00.000Z",
+      "id": 10
+    },
+    {
+      "productName": "s21 fe",
+      "category": "Mobile",
+      "freshness": "Brand New",
+      "price": 39599,
+      "Comment": "BAD",
+      "date": "2022-12-01T18:30:00.000Z",
+      "id": 11
+    },
+    {
+      "productName": "shaaaa",
+      "category": "Mobile",
+      "freshness": "refurbished",
+      "price": 88888,
+      "Comment": "to not Good",
+      "date": "2022-12-04T18:30:00.000Z",
+      "id": 12
+    },
+    {
+      "productName": "bsdk",
+      "category": "Mobile",
+      "freshness": "Brand New",
+      "price": 100,
+      "Comment": "all good",
+      "date": "2022-11-22T18:30:00.000Z",
+      "id": 13
+    },
+    {
+      "productName": "rishuuuuuuddd",
+      "category": "Earphons",
+      "freshness": "Brand New",
+      "price": 599,
+      "Comment": "green",
+      "date": "2022-12-31T18:30:00.000Z",
+      "id": 14
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
